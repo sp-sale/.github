@@ -14,4 +14,4 @@
 **Прямо сейчас сайт в состоянии разработки, мы решили полностью изменить систему взаимодействия клиент-сервер, так что ждите большего!**
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/PoopStore-Team/.github/main/github-metrics.svg" align="center"></p>
-<h1 align-"center">ПРОЕКТ ЗАКРЫТ</h1>
+
